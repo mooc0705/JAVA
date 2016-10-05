@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/commands/ChangeDirectory.java=UTF-8
+encoding//src/commands/GetUrl.java=UTF-8
+encoding//src/commands/PrintWorkingDirectory.java=UTF-8
+encoding//src/commands/RecallHistoryCommand.java=UTF-8
